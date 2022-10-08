@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<img align="center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Ervand Harutyunyan</h1>
 <h3 align="center">Software Engineer</h3>
